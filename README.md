@@ -18,6 +18,9 @@ each songs and getting a score on the map (even if the score is 0).
 # Usage
 ...
 
+(I'm just rambling at this point, but it could be useful info for others that
+are curious)
+
 # Why
 A while back, I downloaded several huge beatmap packs totalling 23k+ songs.
 Along with that, it took up around 130GB or my storage. I quickly realized 
