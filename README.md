@@ -24,7 +24,8 @@ After you download it, you can run the program through the terminal with
 So a complete example would look like this:
 `java -jar osu-unplayed-song-remover.jar C:\Users\Kyrobi\AppData\Local\osu!`
 
-This folder should contain a folder called `Songs` and a file called `scores.db`
+To make sure this is the correct folder, the folder should contain a folder 
+called `Songs` and a file called `scores.db`
 
 
 (I'm just rambling at this point, but it could be useful info for others that
