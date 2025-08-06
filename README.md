@@ -16,6 +16,9 @@ play it. I recommend using NoFail + DoubleTime to quickly skipping through
 each songs and getting a score on the map (even if the score is 0).
 
 # Usage
+**I haven't tested this extensively, so PLEASE backup your osu folder
+incase the program messes up your important files**
+
 You can compile the code yourself or grab the Java program from [here](https://github.com/Kyrobi/osu-unplayed-song-remover/releases/tag/release).
 After you download it, you can run the program through the terminal with
 
