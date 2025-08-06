@@ -1,5 +1,5 @@
 # Credit
-I used this project's code on how to read and intepret the proprietary
+I used this project's code for reading the proprietary
 database format: https://github.com/jaasonw/osu-db-tools
 
 # Description
